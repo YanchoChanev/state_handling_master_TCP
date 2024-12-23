@@ -1,0 +1,152 @@
+[Sun Dec 22 17:39:44 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 17:41:00 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 17:41:31 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 17:41:59 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 17:43:49 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 17:59:47 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 17:59:59 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:02:36 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:03:06 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:03:50 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:04:26 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:04:36 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:06:47 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:08:54 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:08:54 2024] [INFO] [MasterStateMachine] New status is 1
+[Sun Dec 22 18:08:54 2024] [INFO] [MasterStateMachine] Master: Handling process state
+[Sun Dec 22 18:09:05 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:09:11 2024] [INFO] [MasterStateMachine] New status is 1
+[Sun Dec 22 18:09:11 2024] [INFO] [MasterStateMachine] Master: Handling process state
+[Sun Dec 22 18:10:18 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:12:13 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:12:13 2024] [INFO] [MasterStateMachine] New status is 1
+[Sun Dec 22 18:12:13 2024] [INFO] [MasterStateMachine] Master: Handling process state
+[Sun Dec 22 18:12:37 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:12:52 2024] [INFO] [MasterStateMachine] New status is 1
+[Sun Dec 22 18:12:52 2024] [INFO] [MasterStateMachine] Master: Handling process state
+[Sun Dec 22 18:15:48 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:15:58 2024] [INFO] [MasterStateMachine] New status is 1
+[Sun Dec 22 18:15:58 2024] [INFO] [MasterStateMachine] Master: Handling process state
+[Sun Dec 22 18:16:08 2024] [INFO] [MasterStateMachine] New status is 0
+[Sun Dec 22 18:16:08 2024] [INFO] [MasterStateMachine] Master: Handling idle state
+[Sun Dec 22 18:16:16 2024] [INFO] [MasterStateMachine] New status is 1
+[Sun Dec 22 18:16:16 2024] [INFO] [MasterStateMachine] Master: Handling process state
+[Sun Dec 22 18:16:21 2024] [INFO] [MasterStateMachine] New status is 2
+[Sun Dec 22 18:34:38 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:34:48 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:36:24 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:36:39 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:38:00 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:39:47 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:40:50 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:41:16 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:42:20 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:52:16 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 18:54:00 2024] [INFO] [MasterStateMachine] New status is 1
+[Sun Dec 22 18:54:00 2024] [INFO] [MasterStateMachine] Master: Handling process state
+[Sun Dec 22 18:55:22 2024] [INFO] [MasterStateMachine] New status is 2
+[Sun Dec 22 19:03:50 2024] [INFO] [MasterStateMachine] New status is 1
+[Sun Dec 22 19:03:50 2024] [INFO] [MasterStateMachine] Master: Handling process state
+[Sun Dec 22 19:04:02 2024] [INFO] [MasterStateMachine] New status is 2
+[Sun Dec 22 19:04:49 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 19:05:09 2024] [INFO] [MasterStateMachine] New status is 1
+[Sun Dec 22 19:05:09 2024] [INFO] [MasterStateMachine] Master: Handling process state
+[Sun Dec 22 19:05:14 2024] [INFO] [MasterStateMachine] New status is 2
+[Sun Dec 22 19:05:29 2024] [INFO] [MasterStateMachine] New status is 0
+[Sun Dec 22 19:05:29 2024] [INFO] [MasterStateMachine] Master: Handling idle state
+[Sun Dec 22 19:05:34 2024] [INFO] [MasterStateMachine] New status is 1
+[Sun Dec 22 19:05:34 2024] [INFO] [MasterStateMachine] Master: Handling process state
+[Sun Dec 22 19:06:43 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 19:07:30 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 19:08:00 2024] [INFO] [MasterStateMachine] New status is 1
+[Sun Dec 22 19:08:00 2024] [INFO] [MasterStateMachine] Master: Handling process state
+[Sun Dec 22 19:08:43 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 19:09:11 2024] [INFO] [MasterStateMachine] New status is 1
+[Sun Dec 22 19:09:11 2024] [INFO] [MasterStateMachine] Master: Handling process state
+[Sun Dec 22 19:10:23 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 19:10:37 2024] [INFO] [MasterStateMachine] New status is 1
+[Sun Dec 22 19:10:37 2024] [INFO] [MasterStateMachine] Master: Handling process state
+[Sun Dec 22 19:20:32 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 19:21:52 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 19:23:25 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 19:27:06 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 19:33:13 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 19:33:45 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 19:35:00 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 19:35:15 2024] [ERROR] [MasterStateMachine] Invalid state
+[Sun Dec 22 19:36:06 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 19:36:06 2024] [ERROR] [MasterStateMachine] Invalid state
+[Sun Dec 22 19:36:29 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 19:38:22 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 19:38:36 2024] [INFO] [MasterStateMachine] New status is 1
+[Sun Dec 22 19:38:36 2024] [INFO] [MasterStateMachine] Master: Handling process state
+[Sun Dec 22 19:38:46 2024] [INFO] [MasterStateMachine] New status is 0
+[Sun Dec 22 19:38:46 2024] [INFO] [MasterStateMachine] Master: Handling idle state
+[Sun Dec 22 19:38:50 2024] [INFO] [MasterStateMachine] New status is 1
+[Sun Dec 22 19:38:50 2024] [INFO] [MasterStateMachine] Master: Handling process state
+[Sun Dec 22 19:38:59 2024] [INFO] [MasterStateMachine] New status is 2
+[Sun Dec 22 19:42:13 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 19:42:22 2024] [INFO] [MasterStateMachine] New status is 1
+[Sun Dec 22 19:42:22 2024] [INFO] [MasterStateMachine] Master: Handling process state
+[Sun Dec 22 19:42:26 2024] [INFO] [MasterStateMachine] New status is 2
+[Sun Dec 22 19:43:33 2024] [INFO] [MasterStateMachine] New status is 1
+[Sun Dec 22 19:43:33 2024] [INFO] [MasterStateMachine] Master: Handling process state
+[Sun Dec 22 19:43:37 2024] [INFO] [MasterStateMachine] New status is 2
+[Sun Dec 22 19:44:39 2024] [INFO] [Main] Queue created successfully
+
+[Sun Dec 22 19:44:39 2024] [INFO] [MasterStateMachine] New status is 1
+[Sun Dec 22 19:44:39 2024] [INFO] [MasterStateMachine] Master: Handling process state
+[Sun Dec 22 19:44:44 2024] [INFO] [MasterStateMachine] New status is 0
+[Sun Dec 22 19:44:44 2024] [INFO] [MasterStateMachine] Master: Handling idle state
+[Sun Dec 22 19:44:46 2024] [INFO] [MasterStateMachine] New status is 1
+[Sun Dec 22 19:44:46 2024] [INFO] [MasterStateMachine] Master: Handling process state
+[Sun Dec 22 19:44:50 2024] [INFO] [MasterStateMachine] New status is 2
+[Sun Dec 22 19:44:52 2024] [INFO] [MasterStateMachine] New status is 0
+[Sun Dec 22 19:44:52 2024] [INFO] [MasterStateMachine] Master: Handling idle state
+[Sun Dec 22 19:45:42 2024] [INFO] [MasterStateMachine] New status is 1
+[Sun Dec 22 19:45:42 2024] [INFO] [MasterStateMachine] Master: Handling process state
